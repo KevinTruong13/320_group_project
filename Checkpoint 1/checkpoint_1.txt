@@ -1,0 +1,8 @@
+Group Members: Kevin Truong, Charles Phan, Chan Park, Tony Zheng
+Github Link: https://github.com/KevinTruong13/320_group_project
+
+Dataset: Student Performance (Cortez)
+URL: https://archive.ics.uci.edu/dataset/320/student+performance
+Reason for Choosing: As college students, we are interested in learning and understanding the factors that influence student performance. Analyzing the social and economic influences that affect education may allow systemic improvements in academic success and guide future research in this field.
+Works Cited
+Cortez, Paulo. “UCI Machine Learning Repository.” Archive.ics.uci.edu, 2014, archive.ics.uci.edu/dataset/320/student+performance.
