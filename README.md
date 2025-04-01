@@ -1,2 +1,2 @@
 # 320_group_project
-Notebook under file_project/ directory
+Notebook under Final_Project/ directory
